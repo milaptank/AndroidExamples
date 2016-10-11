@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="shape_square_pressed">#294069</color>
+    <color name="shape_square_normal">#4EAEEA</color>
+
+    <color name="shape_ring_pressed">#1b94e0</color>
+    <color name="shape_ring_normal">#4EAEEA</color>
+
+    <color name="shape_oval_pressed">#bd161e</color>
+    <color name="shape_oval_normal">#e62b34</color>
+</resources>
